@@ -139,6 +139,11 @@
 {
     height: 30px;
 }
+#tof4
+{
+    height: 150px;
+}
+
 @media screen and (max-width:800px) {
     .ok4
     {

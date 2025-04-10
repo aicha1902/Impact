@@ -141,7 +141,10 @@
 }
 #tof4
 {
-    height: 150px;
+    height: 250px;
+}
+#icone{
+    height: 50px;
 }
 
 @media screen and (max-width:800px) {
@@ -153,7 +156,6 @@
     }
     .about
     {
-        border: solid;
         height: 1500px;
         display: flex;
         flex-direction: column;
@@ -161,6 +163,21 @@
     #tof1
     {
         height: 300px;
+    }
+
+    .avant
+    {
+        height: 900px;
+        display: flex;
+        
+    }
+    .av
+    {
+        height: 900px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        justify-content: center;
     }
     
 }

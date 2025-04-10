@@ -139,3 +139,23 @@
 {
     height: 30px;
 }
+@media screen and (max-width:800px) {
+    .ok4
+    {
+        display: flex;
+        flex-direction: column;
+        height: 1800px;
+    }
+    .about
+    {
+        border: solid;
+        height: 1500px;
+        display: flex;
+        flex-direction: column;
+    }
+    #tof1
+    {
+        height: 300px;
+    }
+    
+}

@@ -1,3 +1,7 @@
+body
+{
+    height: 900px;
+}
 .bare1{
     background-color: #007668;
     gap: 20px;
@@ -120,11 +124,11 @@
  }
  .card
  {
-    height: 250px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+   height: 309px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
  }
  #tof
 {
@@ -211,4 +215,17 @@
         justify-content: center;
     }
     
+}
+.container
+{
+    height: 300px;
+}
+.yosh
+{
+    height: 500px;
+}
+.poi
+{
+    
+    height: 500px;
 }

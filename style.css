@@ -140,13 +140,12 @@ body
     height: 420px;
 }
 
-.bi
-{
+.bi{
+
     height: 50px;
     color: #007668;
 }
-#vid
-{
+#vid{
     height: 90px;
     margin-top: 10px;
     border-radius: 50px;
@@ -215,7 +214,7 @@ body
         justify-content: center;
     }
     
-}
+
 .container
 {
     height: 300px;
@@ -224,8 +223,8 @@ body
 {
     height: 500px;
 }
-.poi
-{
+.poi{
     
     height: 500px;
+}
 }

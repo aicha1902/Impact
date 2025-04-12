@@ -84,10 +84,10 @@
     margin-left: 40px !important;
     
 }
-.card .bi{
+/* .card .bi{
     font-size: 50px;
-    /* margin-left: 50px; */
-}
+     margin-left: 50px;
+} */
 .rond{
     color: gray;
 }
@@ -107,10 +107,15 @@
  }
  .i-pad{
     display: flex;
+    justify-content: center;
     gap: 5px;
  }
  .air{
     width: 100px;
     border-radius: 50%;
     background-color: #007668;
+ }
+ .our{
+    display: flex;
+    justify-content: space-between;
  }
